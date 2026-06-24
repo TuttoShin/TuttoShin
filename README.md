@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- 헤더 이미지 -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bca4fe,100:2eff58&height=180&text=JiminShin's%20Github&animation=&fontColor=193f71&fontSize=60" alt="Header Image" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bca4fe,100:2eff58&height=180&text=TuttoShin&animation=&fontColor=193f71&fontSize=60" alt="Header Image" />
 
   <br>
   <p>Ewha Womans Univ.
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   
   <div align="center">
     <!-- 왼쪽: 깃허브 통계 요약 -->
-    <img src="https://github-readme-stats.vercel.app/api?username=TuttoShin&show_icons=true&theme=default" alt="JiminShin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TuttoShin&show_icons=true&hide_rank=true&theme=default" alt="TuttoShin's GitHub Stats" />
     <!-- 오른쪽: 가장 많이 사용한 언어 -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuttoShin&layout=compact&theme=default" alt="Top Languages" />
   </div>
