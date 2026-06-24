@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
 
-  <br>
+  <br><br>
   
 <!-- 깃허브 스탯 -->
 <div align="center">
