@@ -25,10 +25,8 @@ Here are some ideas to get you started:
  <p>JSJ LAB.
  <br>Video Team Lead</p>
 
-  <br>
  <p>LikeLion Ewha 14th</p>
  
-<br>
 
  <h2> 🐾 Interest </h2>
  <p> Artificial Intelligence Research
