@@ -74,6 +74,13 @@ Here are some ideas to get you started:
   <br>
   
   <div align="center">
+    <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=TuttoShin&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/TuttoShin"
+  width="600"
+  height="300"
+/>
+</a>
     <!-- 왼쪽: 깃허브 통계 요약 -->
   <img src="https://github-readme-stats.vercel.app/api?username=TuttoShin&show_icons=true&hide_rank=true&theme=default" alt="TuttoShin's GitHub Stats" />
     <!-- 오른쪽: 가장 많이 사용한 언어 -->
