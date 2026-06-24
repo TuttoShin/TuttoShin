@@ -55,9 +55,9 @@ Here are some ideas to get you started:
   
   <div align="center">
     <!-- 왼쪽: 깃허브 통계 요약 -->
-    <img src="https://github-readme-stats.vercel.app/api?username=JiminShin&show_icons=true&theme=default" alt="JiminShin's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=TuttoShin&show_icons=true&theme=default" alt="JiminShin's GitHub Stats" />
     <!-- 오른쪽: 가장 많이 사용한 언어 -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiminShin&layout=compact&theme=default" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuttoShin&layout=compact&theme=default" alt="Top Languages" />
   </div>
 </div>
 
