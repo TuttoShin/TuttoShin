@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <br>
  <p>LikeLion Ewha 14th</p>
  
-<br><br>
+<br>
 
  <h2> 🐾 Interest </h2>
  <p> Artificial Intelligence Research
