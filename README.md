@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <a href="여기에_노션_링크를_넣어주세요"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
   <a href="https://discord.com/channels/@tuttotitto"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"></a>
 
-  <br><br><br>
+  <br>
 
   <br>
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐾 Tech Stacks </h2>
