@@ -46,7 +46,20 @@ Here are some ideas to get you started:
   
   <a href="mailto:jiminshin.jm@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   <a href="여기에_노션_링크를_넣어주세요"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
-  <a href="여기에_디스코드_링크를_넣어주세요"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"></a>
+  <a href="https://discord.com/channels/@tuttotitto"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"></a>
+
+<!-- 깃허브 스탯 -->
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤔 Github Stats </h2>
+  <br>
+  
+  <div align="center">
+    <!-- 왼쪽: 깃허브 통계 요약 -->
+    <img src="https://github-readme-stats.vercel.app/api?username=JiminShin&show_icons=true&theme=default" alt="JiminShin's GitHub Stats" />
+    <!-- 오른쪽: 가장 많이 사용한 언어 -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiminShin&layout=compact&theme=default" alt="Top Languages" />
+  </div>
+</div>
 
 </div>
     
