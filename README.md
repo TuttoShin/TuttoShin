@@ -32,7 +32,7 @@ Here are some ideas to get you started:
  <p> Artificial Intelligence Research
  <br> UI/UX Design</p>
  
-
+<br>
    <h2> 🐾 Contact me </h2>
   
   <a href="mailto:jiminshin.jm@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
