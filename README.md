@@ -20,11 +20,11 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bca4fe,100:2eff58&height=180&text=JiminShin's%20Github&animation=&fontColor=193f71&fontSize=60" alt="Header Image" />
 
   <br>
+  <h3>Ewha Womans Univ.
+Majoring in Artificial Intelligence</h3>
 
-  <h3>하이</h3>
 
   <br>
-
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
   <br>
   
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <!-- 깃허브 스탯 -->
 <div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤔 Github Stats </h2>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤔 Stats </h2>
   <br>
   
   <div align="center">
