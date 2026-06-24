@@ -19,7 +19,6 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bca4fe,100:2eff58&height=180&text=TuttoShin&animation=&fontColor=193f71&fontSize=60" alt="Header Image" />
 
   <h3> 🐾 Info </h3>
-  <br>
   <p>Ewha Womans Univ.
  <br>Majoring in Artificial Intelligence</p>
 
@@ -75,8 +74,7 @@ Here are some ideas to get you started:
   
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=TuttoShin&utm_content=farm"><img src="https://render.gitanimals.org/farms/TuttoShin" width="600" height="300" /></a>
     
-  <br><br>
-  
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=TuttoShin&show_icons=true&hide_rank=true&theme=default" alt="TuttoShin's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuttoShin&layout=compact&theme=default" alt="Top Languages" />
 
