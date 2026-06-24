@@ -29,7 +29,17 @@ Here are some ideas to get you started:
 
 
   <br>
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
+   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐾 Contact me </h2>
+  <br>
+  
+  <a href="mailto:jiminshin.jm@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+  <a href="여기에_노션_링크를_넣어주세요"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
+  <a href="https://discord.com/channels/@tuttotitto"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"></a>
+
+  <br><br><br>
+
+  <br>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐾 Tech Stacks </h2>
   <br>
   
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
@@ -44,17 +54,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
 
   <br><br><br>
-
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
-  <br>
   
-  <a href="mailto:jiminshin.jm@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-  <a href="여기에_노션_링크를_넣어주세요"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
-  <a href="https://discord.com/channels/@tuttotitto"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"></a>
-
 <!-- 깃허브 스탯 -->
 <div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤔 Stats </h2>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐾 Stats </h2>
   <br>
   
   <div align="center">
