@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bca4fe,100:2eff58&height=180&text=JiminShin's%20Github&animation=&fontColor=193f71&fontSize=60" alt="Header Image" />
 
   <br>
-  <h4>Ewha Womans Univ.
- <br>Majoring in Artificial Intelligence</h4>
+  <p>Ewha Womans Univ.
+ <br>Majoring in Artificial Intelligence</p>
 
 
   <br>
