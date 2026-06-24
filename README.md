@@ -32,14 +32,12 @@ Here are some ideas to get you started:
  <p> Artificial Intelligence Research
  <br> UI/UX Design</p>
  
-  <br>
+
    <h2> 🐾 Contact me </h2>
   
   <a href="mailto:jiminshin.jm@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   <a href="여기에_노션_링크를_넣어주세요"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
   <a href="https://discord.com/channels/@tuttotitto"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"></a>
-
-  <br>
 
   <br>
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐾 Tech Stacks </h2>
@@ -59,7 +57,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
 
-  <br><br><br>
+  <br>
   
 <!-- 깃허브 스탯 -->
 <div align="center">
