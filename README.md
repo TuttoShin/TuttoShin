@@ -81,7 +81,8 @@ Here are some ideas to get you started:
   height="300"
 />
 </a>
-    < br>
+    
+    <br>
     <!-- 왼쪽: 깃허브 통계 요약 -->
   <img src="https://github-readme-stats.vercel.app/api?username=TuttoShin&show_icons=true&hide_rank=true&theme=default" alt="TuttoShin's GitHub Stats" />
     <!-- 오른쪽: 가장 많이 사용한 언어 -->
