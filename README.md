@@ -22,7 +22,6 @@ Here are some ideas to get you started:
   <p>Ewha Womans Univ.
  <br>Majoring in Artificial Intelligence</p>
 
- <br>
  <p>JSJ LAB.
  <br>Video Team Lead</p>
 
