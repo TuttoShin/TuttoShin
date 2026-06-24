@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bca4fe,100:2eff58&height=180&text=TuttoShin&animation=&fontColor=193f71&fontSize=60" alt="Header Image" />
 
-  <h2> 🐾 Info </h2>
+  <h3> 🐾 Info </h3>
   <br>
   <p>Ewha Womans Univ.
  <br>Majoring in Artificial Intelligence</p>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
  
 <br><br>
 
- <h2> 🐾 Interest </h2>
+ <h3> 🐾 Interest </h3>
  <p> Artificial Intelligence Research
  <br> UI/UX Design</p>
  
@@ -73,22 +73,12 @@ Here are some ideas to get you started:
   <h2> 🐾 Stats </h2>
   <br>
   
-  <div align="center">
-    <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=TuttoShin&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/TuttoShin"
-  width="600"
-  height="300"
-/>
-</a>
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=TuttoShin&utm_content=farm"><img src="https://render.gitanimals.org/farms/TuttoShin" width="600" height="300" /></a>
     
-    <br>
-    <!-- 왼쪽: 깃허브 통계 요약 -->
+  <br><br>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=TuttoShin&show_icons=true&hide_rank=true&theme=default" alt="TuttoShin's GitHub Stats" />
-    <!-- 오른쪽: 가장 많이 사용한 언어 -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuttoShin&layout=compact&theme=default" alt="Top Languages" />
-  </div>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuttoShin&layout=compact&theme=default" alt="Top Languages" />
 
 </div>
     
