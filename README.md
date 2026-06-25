@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  <p>JSJ LAB.
  <br>Video Team Lead</p>
 
- <p>LikeLion Ewha 14th</p>
+ <p>LikeLion Univ. Ewha 14th</p>
  
 <br>
  <h2> 🐾 Interest </h2>
