@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2> 🐾 Stats </h2>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=TuttoShin&show_icons=true&hide_rank=true&theme=default" alt="TuttoShin's GitHub Stats" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=TuttoShin&show_icons=true&hide_rank=true&theme=default" alt="TuttoShin's GitHub Stats" /> -->
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=TuttoShin&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/TuttoShin"
