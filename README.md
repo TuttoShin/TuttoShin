@@ -27,8 +27,6 @@ Here are some ideas to get you started:
  <br>Video Team Lead</p>
 
  <p>LikeLion Univ. Ewha 14th</p>
-<img width="300" height="300" alt="cropped_circle_image" src="https://github.com/user-attachments/assets/11a80a9a-9e9d-46f4-a8a8-50344a6461f6" />
-
  
 <br>
  <h2> 🐾 Interest </h2>
