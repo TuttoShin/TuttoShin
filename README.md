@@ -1,4 +1,3 @@
-<img width="1648" height="1648" alt="Gemini_Generated_Image_fubd4lfubd4lfubd-photoaidcom-cropped" src="https://github.com/user-attachments/assets/8f4867e7-eb20-4592-a6fa-b627b2de08c3" />
 <!--
 **TuttoShin/TuttoShin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +20,7 @@ Here are some ideas to get you started:
 
   <h2> 🐾 Info </h2>
 
-  <img width="1648" height="1648" alt="Gemini_Generated_Image_fubd4lfubd4lfubd-photoaidcom-cropped" src="https://github.com/user-attachments/assets/b1edcd1d-6d45-478b-acca-2e36cffdb230" />
+  <img width="824" height="824" alt="profile" src="https://github.com/user-attachments/assets/b1edcd1d-6d45-478b-acca-2e36cffdb230" />
   <p>Ewha Womans Univ.
  <br>Majoring in Artificial Intelligence</p>
 
