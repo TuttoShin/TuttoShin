@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- 헤더 이미지 -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bca4fe,100:2eff58&height=180&text=TuttoShin&animation=&fontColor=193f71&fontSize=60" alt="Header Image" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bca4fe,100:2eff58&height=300&text=TuttoShin&animation=&fontColor=193f71&fontSize=60" alt="Header Image" />
 
   <h2> 🐾 Info </h2>
   
