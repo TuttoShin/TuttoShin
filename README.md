@@ -32,6 +32,7 @@ Here are some ideas to get you started:
  </div>
  
 <br>
+<br>
  <h2> 🐾 Interest </h2>
  <p> Artificial Intelligence Research
  <br> UI/UX Design</p>
