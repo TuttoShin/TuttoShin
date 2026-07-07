@@ -19,8 +19,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bca4fe,100:2eff58&height=180&text=TuttoShin&animation=&fontColor=193f71&fontSize=60" alt="Header Image" />
 
   <h2> 🐾 Info </h2>
-
-  <img width="824" height="824" alt="profile" src="https://github.com/user-attachments/assets/b1edcd1d-6d45-478b-acca-2e36cffdb230" />
+  
   <p>Ewha Womans Univ.
  <br>Majoring in Artificial Intelligence</p>
 
@@ -28,6 +27,8 @@ Here are some ideas to get you started:
  <br>Video Team Lead</p>
 
  <p>LikeLion Univ. Ewha 14th</p>
+
+ <img width="150" height="150" style="border-radius: 50%;" alt="profile" src="https://github.com/user-attachments/assets/b1edcd1d-6d45-478b-acca-2e36cffdb230" />
  
 <br>
  <h2> 🐾 Interest </h2>
