@@ -27,11 +27,9 @@ Here are some ideas to get you started:
  <br>Video Team Lead</p>
 
  <p>LikeLion Univ. Ewha 14th</p>
-<div align="center">
- <img width="300" height="300" alt="profile" src="https://github.com/user-attachments/assets/b1edcd1d-6d45-478b-acca-2e36cffdb230" style="border-radius: 50%; object-fit: cover; background-color: transparent;"/>
- </div>
+<img width="300" height="300" alt="cropped_circle_image" src="https://github.com/user-attachments/assets/11a80a9a-9e9d-46f4-a8a8-50344a6461f6" />
+
  
-<br>
 <br>
  <h2> 🐾 Interest </h2>
  <p> Artificial Intelligence Research
